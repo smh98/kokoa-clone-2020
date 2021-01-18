@@ -11,6 +11,7 @@
 }
 .more-suggestions_icons {
   display: flex;
+  justify-content: space-between;
 }
 .more-suggestions_icon {
   margin-right: 30px;
@@ -29,6 +30,6 @@
   margin-bottom: 10px;
 }
 .more-suggestions_icon-image i {
-  color: white;
+  color: #2e363e;
   font-size: 32px;
 }
